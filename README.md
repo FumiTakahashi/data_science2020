@@ -1,6 +1,7 @@
 ## Overview
 
-This is my first GitHub repository which I made in order to organize and keep what I studied in Data Science. 
+Thank you for visiting my GitHub page!
+This is my first repository where I keep my notes and codes from studying various topics in Data Science. 
 
 
 ## Content
